@@ -1,11 +1,11 @@
 # 主要数据页索引
 - name: Cup1
-  link: /
+  link: /InnovationClassGroup8
 - name: Cup2
-  link: /about.html
+  link: /InnovationClassGroup8/about.html
 - name: Cup3
-  link: /blog.html
+  link: /InnovationClassGroup8/blog.html
 - name: Cup4
-  link: /staff.html
+  link: /InnovationClassGroup8/staff.html
 - name: Cup5
-  link: /resume.html
+  link: /InnovationClassGroup8/resume.html

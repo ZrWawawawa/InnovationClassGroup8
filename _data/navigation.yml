@@ -1,11 +1,11 @@
 # 主要数据页索引
 - name: HomePage
-  link: /
+  link: /InnovationClassGroup8
 - name: Products
-  link: /about.html
+  link: /InnovationClassGroup8/about.html
 - name: Story
-  link: /blog.html
+  link: /InnovationClassGroup8/blog.html
 - name: Commitment
-  link: /staff.html
+  link: /InnovationClassGroup8/staff.html
 - name: Join us
-  link: /resume.html
+  link: /InnovationClassGroup8/resume.html
